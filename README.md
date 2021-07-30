@@ -1,4 +1,4 @@
-<img src="image.svg" style="max-height: 200px; max-midth: 200px">
+<img src="image.svg" height="10vh">
 
 <!--
 **knappa/knappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
